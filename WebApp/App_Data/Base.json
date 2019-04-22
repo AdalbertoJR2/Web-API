@@ -26,5 +26,12 @@
     "sobrenome": "Junior",
     "telefone": "35359999",
     "ra": 4
+  },
+  {
+    "id": 5,
+    "nome": "Assistente",
+    "sobrenome": "Junior",
+    "telefone": "Junior",
+    "ra": 5
   }
 ]
